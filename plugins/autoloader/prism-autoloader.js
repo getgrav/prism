@@ -166,6 +166,7 @@
 	}/*]*/;
 
 	var lang_aliases = /*aliases_placeholder[*/{
+		"ecs": "ecscript",
 		"html": "markup",
 		"xml": "markup",
 		"svg": "markup",

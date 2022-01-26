@@ -19,6 +19,7 @@
 		"plaintext": "Plain text",
 		"text": "Plain text",
 		"txt": "Plain text",
+		"ecs": "EcScript",
 		"html": "HTML",
 		"xml": "XML",
 		"svg": "SVG",
