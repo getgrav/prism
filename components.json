@@ -304,6 +304,10 @@
 			"title": "Content-Security-Policy",
 			"owner": "ScottHelme"
 		},
+		"cooklang": {
+			"title": "Cooklang",
+			"owner": "ahue"
+		},
 		"coq": {
 			"title": "Coq",
 			"owner": "RunDevelopment"
@@ -1381,6 +1385,10 @@
 			"title": "UnrealScript",
 			"alias": ["uscript", "uc"],
 			"owner": "RunDevelopment"
+		},
+		"uorazor": {
+			"title": "UO Razor Script",
+			"owner": "jaseowns"
 		},
 		"uri": {
 			"title": "URI",
