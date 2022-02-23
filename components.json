@@ -40,11 +40,6 @@
 		}
 	},
 	"languages": {
-		"ecscript": {
-			"title": "EcScript",
-			"alias": "ecs",
-			"owner": "energid"
-		},
 		"meta": {
 			"path": "components/prism-{id}",
 			"noCSS": true,
@@ -382,6 +377,11 @@
 		"ebnf": {
 			"title": "EBNF",
 			"owner": "RunDevelopment"
+		},
+		"ecscript": {
+			"title": "EcScript",
+			"alias": "ecs",
+			"owner": "energid"
 		},
 		"editorconfig": {
 			"title": "EditorConfig",

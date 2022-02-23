@@ -166,7 +166,6 @@
 	}/*]*/;
 
 	var lang_aliases = /*aliases_placeholder[*/{
-		"ecs": "ecscript",
 		"html": "markup",
 		"xml": "markup",
 		"svg": "markup",
@@ -193,6 +192,7 @@
 		"dns-zone": "dns-zone-file",
 		"dockerfile": "docker",
 		"gv": "dot",
+		"ecs": "ecscript",
 		"eta": "ejs",
 		"xlsx": "excel-formula",
 		"xls": "excel-formula",
